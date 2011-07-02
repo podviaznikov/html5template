@@ -17,7 +17,7 @@ article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, s
 {
   display: block;
 }
-
+/* Media Queries */
 @media screen and (min-width: 1281) and (max-width: 1400px)
 {
 }
@@ -47,4 +47,11 @@ article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, s
 }
 @media screen and (max-width: 330px)
 {
+}
+/* Print styles*/
+@media print 
+{
+    background: white;
+    font-size: 12pt;
+    color: black;
 }
