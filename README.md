@@ -1,11 +1,13 @@
 # html5template
 Template for HTML5 projects. Includes
+ 
  - index.html - template for basic html file
  - styles.css - template for CSS files with mediaqueries, normalisation, etc
  - appcache.mf - template for application cache file
  - libs.bundle.js - file with JS libs jQuery, underscore, backbone
  - manifest.json - template for Chrome Web Store manifest.
  - js/app/*.js - JS files with Backbone structure
+
 #credits
 
 Inspired by httphtml5boilerplate.com. But intended for personal projects.
