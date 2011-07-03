@@ -11,6 +11,7 @@ time, mark, audio, video
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
+  font-family: Arial,sans-serif;
 }
  
 article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, section 
@@ -51,7 +52,10 @@ article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, s
 /* Print styles*/
 @media print 
 {
-    background: white;
-    font-size: 12pt;
-    color: black;
+    body
+    {
+        background: white;
+        font-size: 12pt;
+        color: black;
+    }
 }
