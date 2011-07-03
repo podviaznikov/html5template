@@ -13,6 +13,10 @@ Template for HTML5 projects. Includes
 Inspired by http://html5boilerplate.com. But intended for personal projects.
 For buidling JS files Webreflection script was used (https://code.google.compjavascript-builder).
 
+#links
+
+For CSS normalization https://github.com/necolas/normalize.css can be used.
+
 ## License
 
 (The MIT License)
